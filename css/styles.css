@@ -162,6 +162,7 @@ main {
 .card__profile {
   display: flex;
   align-items: center;
+  margin-bottom: 1.875rem;
 }
 
 .profile__image {
